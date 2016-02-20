@@ -16,3 +16,21 @@ brew upgrade --all
 
 # Remove outdated versions from the cellar.
 brew cleanup
+
+# Add cask
+brew tap caskroom/cask
+
+# Install things
+brew cask install iterm2
+brew cask install atom
+brew cask install google-chrome
+brew cask install dropbox
+brew cask install flux
+brew cask install intellij-idea
+# brew cask install league-of-legends
+brew cask install mongodb
+brew cask install mongohub
+brew cask install python3
+brew cask install skype
+brew cask install spotify
+brew cask install steam
