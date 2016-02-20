@@ -28,6 +28,7 @@ brew cask install dropbox
 brew cask install flux
 brew cask install intellij-idea
 brew cask install iterm2
+brew cask install java
 # brew cask install league-of-legends
 brew install mongodb
 brew cask install mongohub
