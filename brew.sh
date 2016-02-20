@@ -34,5 +34,6 @@ brew install mongodb
 brew cask install mongohub
 brew cask install python3
 brew cask install skype
+brew cask install sourcetree
 brew cask install spotify
 brew cask install steam
