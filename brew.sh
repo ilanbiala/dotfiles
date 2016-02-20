@@ -29,7 +29,7 @@ brew cask install flux
 brew cask install intellij-idea
 brew cask install iterm2
 # brew cask install league-of-legends
-brew cask install mongodb
+brew install mongodb
 brew cask install mongohub
 brew cask install python3
 brew cask install skype
