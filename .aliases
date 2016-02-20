@@ -16,8 +16,8 @@ alias h="history"
 alias j="jobs"
 
 # MongoDB
-alias mgd="mongod"
-alias mgdq="mongod --quiet"
+alias mgd="mongod --config /usr/local/etc/mongod.conf"
+alias mgdq="mongod --quiet --config /usr/local/etc/mongod.conf"
 
 # Git
 alias gpom="git push origin master"
