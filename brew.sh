@@ -21,12 +21,13 @@ brew cleanup
 brew tap caskroom/cask
 
 # Install things
-brew cask install iterm2
 brew cask install atom
+brew cask install bettertouchtool
 brew cask install google-chrome
 brew cask install dropbox
 brew cask install flux
 brew cask install intellij-idea
+brew cask install iterm2
 # brew cask install league-of-legends
 brew cask install mongodb
 brew cask install mongohub
