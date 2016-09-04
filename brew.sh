@@ -38,4 +38,4 @@ brew cask install skype
 brew cask install sourcetree
 brew cask install spotify
 brew cask install steam
-brew cask install sublime-text-dev
+brew cask install sublime-text
