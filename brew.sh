@@ -24,18 +24,18 @@ brew tap caskroom/versions
 # Install things
 brew cask install atom
 brew cask install bettertouchtool
-brew cask install google-chrome
 brew cask install dropbox
-brew cask install flux
-brew cask install intellij-idea
+# brew cask install flux
+brew cask install google-chrome
+# brew cask install intellij-idea
 brew cask install iterm2
 brew cask install java
 # brew cask install league-of-legends
-brew install mongodb
-brew cask install mongohub
+# brew install mongodb
+# brew cask install mongohub
 brew cask install python3
-brew cask install skype
+# brew cask install skype
 brew cask install sourcetree
 brew cask install spotify
-brew cask install steam
-brew cask install sublime-text
+# brew cask install steam
+# brew cask install sublime-text
