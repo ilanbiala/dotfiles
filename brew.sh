@@ -22,6 +22,7 @@ brew tap caskroom/cask
 brew tap caskroom/versions
 
 # Install things
+brew install ant
 brew cask install atom
 brew cask install bettertouchtool
 brew cask install dropbox
