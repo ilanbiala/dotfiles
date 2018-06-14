@@ -26,16 +26,14 @@ brew install ant
 brew cask install atom
 brew cask install bettertouchtool
 brew cask install dropbox
-# brew cask install flux
+brew install gnupg
 brew cask install google-chrome
 brew cask install intellij-idea
 brew cask install iterm2
 brew cask install java
-# brew cask install league-of-legends
 # brew install mongodb
 # brew cask install mongohub
 brew install python3
-# brew cask install skype
 brew cask install sourcetree
 brew cask install spotify
 # brew cask install steam
