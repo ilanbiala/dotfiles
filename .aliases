@@ -5,6 +5,8 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
+alias ctftunnel="ssh -D 8123 -C -q -N ctfsocks@ctf.martincarlisle.com"
+alias ctfsrv="ssh -o ProxyCommand='nc -x localhost:8123 %h %p' nbatothemax@192.168.2.83"
 
 # Shortcuts
 alias d="cd ~/Dropbox"
