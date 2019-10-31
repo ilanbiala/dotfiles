@@ -22,19 +22,13 @@ brew tap caskroom/cask
 brew tap caskroom/versions
 
 # Install things
-brew install ant
-brew cask install atom
 brew cask install bettertouchtool
 brew cask install dropbox
-brew install gnupg
 brew cask install google-chrome
-brew cask install intellij-idea
 brew cask install iterm2
 brew cask install java
-# brew install mongodb
-# brew cask install mongohub
 brew install python3
 brew cask install sourcetree
 brew cask install spotify
-# brew cask install steam
-# brew cask install sublime-text
+brew cask install visual-studio-code
+brew cask install xquartz
